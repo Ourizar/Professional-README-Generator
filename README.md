@@ -1,13 +1,13 @@
-# asdasd
+# Professional README Generator
 
 ## Description
-asdasd  
+This project will allow a user to create a README.md file using a program.  
 
 ## Motivation
-asdasd
+This is being created to help save time when creating a README file and will allow more focus on coding.
 
 ## License
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Dependencies
 npi i
@@ -16,11 +16,11 @@ npi i
 npm test
 
 ## GitHub
-asd
+Ourizar
 
 ## Usage
-asd
+This will save you time in creating your README.MD file.
 
 ## Contributing
-asd
+You can fork your own copy.
 
